@@ -28,7 +28,7 @@ function App() {
         <Button variant='danger' className='my-3' type="submit">Login </Button>
       </Form>
       <Card className='mb-3' style={{color:"black"}}>
-        <Card.Img src='https://picsum.photos/150/150'/>
+        <Card.Img src='https://picsum.photos/200' style={{height:200}} />
           <Card.Body>
             <Card.Title>
               card example
